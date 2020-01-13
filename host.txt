@@ -1,0 +1,13 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [localnetwork]
+10.33.7.55 tautulli.devjc.net
+10.33.7.55 www.devjc.net
+10.33.7.55 downloads.devjc.net
+10.33.7.55 naomysellam.me
+10.33.7.55 ve2mo.devjc.net
+10.33.7.55 ve2ppj.devjc.net
+10.33.7.1 router.devjc.net
+10.33.7.1 opnsense.devjc.net
+10.33.7.55 unraid.devjc.net
